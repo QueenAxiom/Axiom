@@ -4,7 +4,7 @@
 **Price at time of generation:** $139.99 CAD (a $40 coupon was showing as applicable — verify current price/coupon before publishing)
 **Rating:** 5.0/5 (8 reviews — small review count, noted below as a limitation)
 **Brand:** HUREWA | **Sold by:** Fivegren (third-party seller, ships from Amazon)
-**Status:** ✅ Approved by Alan — ready to publish
+**Status:** ✅ Published — https://empoweredathome.com/hurewa-ai-voice-recorder-a-budget-ai-recorder-with-no-subscription-required-for-now/
 
 ---
 
