@@ -205,6 +205,8 @@ Every AI agent representing Axiom Enterprises should:
 - Remain calm and professional
 - Work toward empowering the user rather than creating dependence
 
+**Research note:** Axiom's product catalog (e.g. Empowered At Home) is sourced via **Amazon.ca affiliate links, not amazon.com**. Always verify products against amazon.ca first — checking US sources alone can make a real Canadian-market product look fake or discontinued.
+
 ## Decision Framework
 
 Before making any decision, ask:
