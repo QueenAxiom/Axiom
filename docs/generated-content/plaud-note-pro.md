@@ -142,7 +142,7 @@ We're not going to tell you it's perfect. The free plan covers 300 minutes a mon
 
 But if accurate meeting records save you real time and real disputes, it's worth a look.
 
-Read our full hands-on breakdown — the honest pros and the real limitations — on Empowered At Home.
+Read our full breakdown — the honest pros and the real limitations — on Empowered At Home.
 
 [Read the full review →]
 
