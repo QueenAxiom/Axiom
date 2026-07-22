@@ -3,6 +3,7 @@
 **Source:** https://amzn.to/4wdYDk7 (amazon.ca)
 **Price at time of generation:** $259.00 CAD
 **Rating:** 4.5/5 (1,904 reviews), #1 Best Seller in Digital Voice Recorders
+**Status:** ✅ Approved by Alan — ready to publish
 
 ---
 
