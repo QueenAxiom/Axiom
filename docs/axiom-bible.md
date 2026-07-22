@@ -151,9 +151,9 @@ Brainz develops ideas that strengthen every other company within Axiom.
 
 ### Schmucks Debate
 
-Discussion and debate platform.
+A game that teaches business and philosophy through debate and negotiation.
 
-Purpose: Encourage thoughtful, respectful discussion where ideas are challenged instead of people.
+Tagline: *Fight = Debate = Negotiate*
 
 ## How the Ecosystem Works
 
