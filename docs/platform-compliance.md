@@ -15,7 +15,7 @@ Every post must include:
 ### Exceptions
 
 - Video posts are exempt from the product-photo requirement — a video is not a photo, not a bypass of the other elements.
-- Any other element can be waived, but only by Alan explicitly, per post. A waiver is never assumed or carried forward from a prior post.
+- Any element, including the product photo, can be waived by Alan explicitly, per post. A waiver is never assumed or carried forward from a prior post.
 
 ## Guardian Compliance Checklist
 
