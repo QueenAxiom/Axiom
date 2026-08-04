@@ -39,3 +39,12 @@ Also lists **Services** (empoweredathome.com/services/) and **Certifications** (
 - Memberships
 
 Do not quote pricing or availability for anything in this section until it is moved to "Confirmed."
+
+## Reconciliation note (2026-08-03/04) — live-site audit findings from a divergent repo checkout
+
+A separate local checkout (`QueenAxiom/-goose-`) ran a fresh live-site audit (2026-08-03) that surfaced findings not yet reflected above — not overwriting the confirmed data above, flagging as new/corrective information:
+
+- **SchmucksDebate.com identity correction:** the live site runs on **Wix**, not WordPress, and is branded around **"Schmucks — The Game,"** a gamified financial-education product (Base Points/Bonus Points, Sun Tzu/Art of War framing) — not primarily a "debate/negotiation coaching platform." The "Executive Services" page (the $10K/hr advisory offer) showed **0 products, 0 services live**. A "Lifetime Blog Subscription" ($14.95, confirmed in the table above) fulfills as a downloadable JPEG file, not real content — looks broken, needs a check. This needs Alan's call on what the brand actually is before further content/rebuild work leans on the "coaching platform" framing.
+- **EmpoweredAtHome.com live bugs found:** two conflicting About pages (one has a placeholder/template address, "Dorchester Center, MA" — not real); duplicate homepage URLs (`/` and `/home/`); shop/category archive pages showing a "No results" banner above products that actually render underneath (looks like a broken query, not missing inventory).
+- **EverythingInternet.ca:** confirmed as the cleanest of the three sites, single SKU (Lifetime Directory Listing, matches the table above), directory currently lists 29 established third-party Canadian tech companies editorially (not Axiom's own products).
+- Golden Goose Project merch (Cap/Hoodie/Blog Subscription) and Password ($0.00, likely test/leftover listing) match what's already in the Confirmed table above — cross-checked, consistent.

@@ -28,3 +28,10 @@ Guardian checks every draft against this list before it goes to Alan, and reject
 - [ ] English and Spanish versions both provided (or waived for this post)
 - [ ] Copy matches `docs/brand-voice.md` (no hype, no fake urgency)
 - [ ] No claims beyond what's grounded in `docs/products-services.md`, `docs/axiom-bible.md`, or `docs/catalogs/`
+
+## Reconciliation note (2026-08-03/04) — merged from a divergent repo checkout
+
+A separate local checkout (`QueenAxiom/-goose-`) had its own evolved version of this doc with additional analysis not reflected above. Preserving it here rather than discarding:
+
+- **Open discrepancy, needs Alan's call:** this doc's "English and Spanish versions — both language versions provided" reads as one post = two language versions. But `content-agent.md`'s actual instruction (and the real running behavior in `automation/content-log.md`/`social-log.md`) is single-language posts alternating EN/ES across the posting cadence — never mixed in one post. These two descriptions disagree. The live routines have been running on the single-language-alternating behavior in practice. Update whichever description is stale once Alan confirms which is actually wanted.
+- **Not yet captured anywhere:** platform-specific specs (image dimensions, caption character limits) per destination platform.
