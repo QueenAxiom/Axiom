@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jarvis: Sophia</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main id="stage">
+    <canvas id="orb" aria-label="Sophia voice visualizer"></canvas>
+    <p id="caption" aria-live="polite"></p>
+  </main>
+
+  <section id="controls">
+    <div id="status">Loading…</div>
+    <form id="ask-form">
+      <input id="ask-input" type="text" autocomplete="off" placeholder="Type to Sophia, or hold Space to talk">
+      <button type="submit">Send</button>
+    </form>
+    <div class="row">
+      <button id="talk-btn" type="button">Hold to talk</button>
+      <button id="kill-btn" type="button" class="danger">Stop (Esc)</button>
+      <button id="reset-btn" type="button">New show</button>
+    </div>
+    <p class="keys">Space: hold to talk · Esc: stop Sophia · S: stage mode · C: captions · G: green screen</p>
+    <p id="heard"></p>
+  </section>
+
+  <script src="/app.js" type="module"></script>
+</body>
+</html>
