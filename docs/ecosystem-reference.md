@@ -14,6 +14,22 @@ Each brand has its own purpose, but they support one another — e.g. someone di
 
 One ecosystem with multiple entry points, not unrelated businesses.
 
+## The Five Doors (2026-11-20 update)
+
+Alan Gooding runs Axiom Enterprises (a small business automation and marketing agency) out of Calgary, Canada. Per his 2026-11-20 update (merged under CLAUDE.md's merge rule, with his explicit confirmation), the ecosystem's entry points are now framed as five "doors":
+
+| Site | Role |
+|---|---|
+| supergrok.ca | The hub — every post starts here |
+| everythinginternet.ca | Axiom's exclusive sales floor (no outside listings) |
+| alangooding.ca | The consulting face |
+| everythingclaude.ca | Routes to alangooding.ca |
+| schmucksdebate.com | The debate property |
+
+Sales-floor products (via everythinginternet.ca): the holographic Business in a Bot, Sun Tzu — The Art of War (North American style, for business), a stock trading tester, content creation, and code licensing — see `docs/products-services.md` for pricing/status on each.
+
+Note: this repositions everythinginternet.ca from the third-party directory model described in the 2026-08-03/04 reconciliation note below (29 editorially-listed Canadian tech companies) to an exclusive first-party sales floor. Both descriptions are preserved here; which model is actually live is Alan's call to confirm.
+
 ## Note for research/verification
 
 Product data (e.g. Empowered At Home's catalog) is sourced via **Amazon.ca affiliate links, not amazon.com**. When verifying whether a listed product is real, check amazon.ca first — checking .com/US sources alone can make a real product look fake or discontinued.

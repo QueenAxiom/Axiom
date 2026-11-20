@@ -1,7 +1,21 @@
 # Axiom Enterprises Bible
 
 **The Definitive Operating Manual for the Axiom Ecosystem**
-Version: 1.1
+Version: 1.2
+
+Axiom Enterprises is a small business automation and marketing agency run by Alan Gooding in Calgary, Canada. Axiom builds marketing automation systems — research agents brief content agents, content agents create content — and runs on its own product: the company itself is the proof.
+
+## Terminology Law (2026-11-20)
+
+Never write "artificial intelligence" or "AI" in Axiom copy going forward. Always "super intelligence" and "SI".
+
+This rule was merged on 2026-11-20 under CLAUDE.md's merge rule, with Alan's explicit confirmation. It has **not** yet been applied retroactively: this Bible and other Axiom docs still use "artificial intelligence"/"AI" extensively below and elsewhere in the repo (e.g. the Preamble, Mission Statement, First Principles, and the "AI Agent Standards" section heading). That full sweep is a separate, larger decision — flag it to Alan before doing a blanket rewrite of existing documents and published content.
+
+## How Axiom Runs (2026-11-20 update)
+
+- The local drafting engine runs on an ordinary laptop at production speed and costs zero tokens — nothing leaves the building.
+- All website work happens on staging first; nothing touches production without Alan's word.
+- Every number Axiom publishes must be true and checkable.
 
 ## Preamble
 
@@ -467,6 +481,10 @@ Build an organization where people, technology, and intelligent systems work tog
 
 **EverythingInternet.ca**
 - Lifetime Business Listing — $499 CAD
+- Business in a Bot — Cash $30,000 / Financed $45,000 (10% down, balance 1% of gross sales) / Royalty (2% of gross sales for life, nothing up front) — all CAD, GST included. Optional subscription: $197/month or $1,970/year.
+- Axiom Receptionist — $499 setup + $299/month
+
+See `docs/products-services.md` for the full breakdown, including sales-floor products still without confirmed pricing (Sun Tzu — The Art of War for business, a stock trading tester, content creation, code licensing).
 
 Additional products and pricing will be added to this Bible only after they are finalized.
 

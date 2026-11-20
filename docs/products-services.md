@@ -9,6 +9,13 @@
 | The Golden Goose Project© Cap | SchmucksDebate.com | C$25.99 |
 | The Golden Goose Project Hoodie | SchmucksDebate.com | C$82.99 |
 | Lifetime Blog Subscription | SchmucksDebate.com | C$14.95 (sale, regular C$100.00) |
+| Business in a Bot — Cash Licence | EverythingInternet.ca (sales floor) | C$30,000.00 (CAD, GST included) |
+| Business in a Bot — Financed Licence | EverythingInternet.ca (sales floor) | C$45,000.00 total (CAD, GST included): 10% down, balance carried by 1% of gross sales |
+| Business in a Bot — Royalty Licence | EverythingInternet.ca (sales floor) | C$0.00 up front; 2% of every gross sale, for life |
+| Business in a Bot — Optional Subscription add-on | EverythingInternet.ca (sales floor) | C$197.00/month or C$1,970.00/year |
+| Axiom Receptionist | EverythingInternet.ca (sales floor) | C$499.00 setup + C$299.00/month |
+
+**Business in a Bot** — an SI agent team programmed by Alan Gooding (with input from most SI platforms) that runs an automated business in almost any industry. One agent checks in with the owner each morning ("Are you ready to start your day?"); nothing posts or sends without the owner's explicit say-so. Axiom owns all code and design — licensees never own it, only licence it.
 
 ## Empowered At Home — confirmed catalog, not itemized
 
@@ -37,8 +44,16 @@ Also lists **Services** (empoweredathome.com/services/) and **Certifications** (
 - AI consulting
 - Automation packages
 - Memberships
+- Sun Tzu — The Art of War, North American style, for business (EverythingInternet.ca sales floor) — named but no price given yet
+- Stock trading tester (EverythingInternet.ca sales floor) — named but no price given yet
+- Content creation (EverythingInternet.ca sales floor product, distinct from Axiom's own content-agent drafting work) — named but no price given yet
+- Code licensing (EverythingInternet.ca sales floor) — named but no price given yet
 
 Do not quote pricing or availability for anything in this section until it is moved to "Confirmed."
+
+## Update (2026-11-20) — merged per Alan's explicit confirmation under CLAUDE.md's merge rule
+
+Alan confirmed he discussed this today with another AI and explicitly said yes to merging it. Added above: Business in a Bot (all licence tiers + optional subscription) and the Axiom Receptionist, both sold through EverythingInternet.ca's sales floor. Also logged: EverythingInternet.ca is now described as "Axiom's exclusive sales floor (no outside listings)" — this is a notable shift from the 2026-08-03/04 reconciliation note below, which found EverythingInternet.ca editorially listing 29 third-party Canadian tech companies. Both are preserved here rather than one overwriting the other; Alan's call on whether the old directory model is retired. See `docs/ecosystem-reference.md` for the full "Five Doors" site list this update introduced.
 
 ## Reconciliation note (2026-08-03/04) — live-site audit findings from a divergent repo checkout
 
